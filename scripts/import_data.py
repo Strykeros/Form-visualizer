@@ -2,7 +2,9 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import pandas as pd
-from models import Course, Question, Response
+from models.course import Course
+from models.question import Question
+from models.response import Response
 
 def import_data(file):
     # Load CSV into pandas

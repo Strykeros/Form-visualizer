@@ -1,5 +1,6 @@
 import streamlit as st
-from models import Question, is_database_empty
+from models.question import Question
+from models.base_model import is_database_empty
 from scripts.data_queries import get_responses_by_question
 from visualizations import create_word_cloud
 

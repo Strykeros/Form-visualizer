@@ -1,4 +1,4 @@
-from models import is_database_empty
+from models.base_model import is_database_empty
 from scripts.data_queries import get_average_responses_by_course
 import pandas as pd
 import streamlit as st

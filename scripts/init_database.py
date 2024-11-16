@@ -1,7 +1,10 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from models import db, Course, Question, Response
+from models.course import Course
+from models.question import Question
+from models.response import Response
+from models.base_model import db
 
 def initialize_db():
     db.connect()

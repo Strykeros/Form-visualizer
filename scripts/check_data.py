@@ -1,7 +1,9 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from models import Course, Question, Response
+from models.course import Course
+from models.question import Question
+from models.response import Response
 
 def verify_data():
     print("Verifying data in the database...\n")

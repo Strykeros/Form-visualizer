@@ -1,5 +1,6 @@
 import streamlit as st
-from models import Course, is_database_empty
+from models.base_model import is_database_empty
+from models.course import Course
 from scripts.data_queries import get_average_responses_by_course
 from visualizations import create_radar_chart
 

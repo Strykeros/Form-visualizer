@@ -1,4 +1,5 @@
-from models import Response, Question
+from models.question import Question
+from models.response import Response
 import pandas as pd
 
 def get_responses_by_question(question_id):
