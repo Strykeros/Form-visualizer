@@ -5,6 +5,7 @@ from models import db, Course, Question, Response
 
 def initialize_db():
     db.connect()
+    db.drop_tables([Course, Question, Response])
     db.create_tables([Course, Question, Response], safe=True)
     print("Tables created successfully!")
 
@@ -15,4 +16,4 @@ def initialize_db():
     print("Sample data inserted!")
 
 if __name__ == "__main__":
-    initialize_db()
+    pass

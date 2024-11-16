@@ -1,4 +1,4 @@
-from models import Response, Course, Question
+from models import Response, Question
 import pandas as pd
 
 def get_responses_by_question(question_id):
