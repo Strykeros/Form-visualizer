@@ -20,7 +20,10 @@ elif page == "Word Cloud":
     st.subheader("Word Cloud of Open-Ended Responses")
 
     # Add a dropdown to select a question for which word cloud will be generated
-    question_texts = [q.text for q in Question.select()]
+    question_texts = [
+        "What did you like the most in this course?",
+        "What could be improved?"
+    ]
     selected_question = st.selectbox('Select a Question for Word Cloud', question_texts)
 
     if selected_question:
