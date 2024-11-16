@@ -35,7 +35,7 @@ if uploaded_file is not None:
     with open(file_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
 
-    st.success(f"File '{uploaded_file.name}' has been uploaded and saved in the 'data' folder.")
+    st.success(f"File '{uploaded_file.name}' has been uploaded and saved. Analyzing data, please wait...")
 
     # Call functions to process the uploaded file
     initialize_db()
