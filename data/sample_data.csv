@@ -1,0 +1,342 @@
+course_name,instructor,question_text,answer
+Sample Course,Dr. Example,Did you enjoy the course?,Completely agree
+Sample Course,Dr. Example,Was the material clear?,Somewhat agree
+Advanced Python,Dr. Code,Did you feel challenged?,Completely disagree
+Sample Course,Dr. Example,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Sample Course,Dr. Example,The course was well organized and systematic.,Somewhat agree
+Sample Course,Dr. Example,The content of the course did not overlap with other courses.,Agree
+Sample Course,Dr. Example,The instructor presented the course topics in an understandable way.,Completely agree
+Sample Course,Dr. Example,The course was intellectually stimulating and encouraged interest.,Agree
+Sample Course,Dr. Example,The instructor provided feedback on my performance.,Disagree
+Sample Course,Dr. Example,The instructor's attitude toward students was respectful and accommodating.,Agree
+Sample Course,Dr. Example,I would gladly attend another course with this instructor.,Completely agree
+Sample Course,Dr. Example,I would gladly attend another course with this instructor.,Completely agree
+Advanced Python,Dr. Code,What did you like the most in this course?,The teacher was great
+Advanced Python,Dr. Code,What did you like the most in this course?,I liked the teacher and their attitude
+Advanced Python,Dr. Code,What did you like the most in this course?,Teacher made it fun
+Advanced Python,Dr. Code,What did you like the most in this course?,Nothing
+Advanced Python,Dr. Code,What could be improved?,The presentations
+Advanced Python,Dr. Code,What could be improved?,Presentations needed work
+Advanced Python,Dr. Code,What could be improved?,The text in the presentations was too small
+Advanced Python,Dr. Code,What could be improved?,It was difficuly to access the presentations
+course_name,instructor,question_text,answer
+Advanced Machine Learning,Prof. AI,Was the material clear?,Completely disagree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Completely agree
+Advanced Machine Learning,Prof. AI,The instructor provided feedback on my performance.,Somewhat agree
+Introduction to Python,Dr. Code,Was the material clear?,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Completely agree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The content of the course did not overlap with other courses.,Disagree
+Advanced Machine Learning,Prof. AI,Did you feel challenged?,Somewhat agree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Neither agree nor disagree
+Introduction to Python,Dr. Code,Was the material clear?,Agree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Agree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Somewhat agree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Was the material clear?,Completely agree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Did you feel challenged?,Agree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat disagree
+Introduction to Python,Dr. Code,The instructor's attitude toward students was respectful and accommodating.,Somewhat disagree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Completely disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Disagree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Neither agree nor disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Completely disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Completely agree
+Introduction to Python,Dr. Code,The instructor's attitude toward students was respectful and accommodating.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Completely agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Completely disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,Did you feel challenged?,Completely disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Completely disagree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Agree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Somewhat agree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Somewhat agree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Completely agree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Somewhat agree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Somewhat agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Somewhat agree
+Introduction to Python,Dr. Code,Did you feel challenged?,Completely disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Neither agree nor disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Somewhat agree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Completely disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Completely disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Agree
+Advanced Machine Learning,Prof. AI,The instructor provided feedback on my performance.,Somewhat agree
+Introduction to Python,Dr. Code,The instructor's attitude toward students was respectful and accommodating.,Completely agree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Agree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Was the material clear?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Somewhat agree
+Introduction to Python,Dr. Code,Was the material clear?,Agree
+Data Visualization Basics,Dr. Charts,The content of the course did not overlap with other courses.,Completely disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Completely disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Completely agree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat agree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Completely disagree
+Introduction to Python,Dr. Code,Was the material clear?,Agree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Somewhat agree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Agree
+Introduction to Python,Dr. Code,Was the material clear?,Somewhat disagree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Somewhat agree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Introduction to Python,Dr. Code,Was the material clear?,Disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely agree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Disagree
+Introduction to Python,Dr. Code,What did you like the most in this course?,The pacing of the course could be improved.
+Introduction to Python,Dr. Code,What could be improved?,Loved the group projects!
+Advanced Machine Learning,Prof. AI,What did you like the most in this course?,The materials provided were excellent.
+Advanced Machine Learning,Prof. AI,What could be improved?,The lectures were engaging and interactive.
+Data Visualization Basics,Dr. Charts,What did you like the most in this course?,I wish there were more examples.
+Data Visualization Basics,Dr. Charts,What could be improved?,The hands-on assignments were great!
+course_name,instructor,question_text,answer
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Somewhat agree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The instructor provided feedback on my performance.,Completely agree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Completely disagree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Completely disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Completely agree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely agree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat agree
+Advanced Machine Learning,Prof. AI,The instructor provided feedback on my performance.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Completely agree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Somewhat disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Somewhat agree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Completely agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Disagree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Disagree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Neither agree nor disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Agree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Completely agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Disagree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely disagree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Completely agree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Somewhat agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Somewhat agree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Completely agree
+Introduction to Python,Dr. Code,Did you feel challenged?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Completely disagree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Somewhat agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Completely disagree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Somewhat agree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Was the material clear?,Completely disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Agree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely agree
+Introduction to Python,Dr. Code,Was the material clear?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Completely disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat agree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Completely disagree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Completely agree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Agree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Disagree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Completely agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Agree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Disagree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Agree
+Data Visualization Basics,Dr. Charts,The content of the course did not overlap with other courses.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Disagree
+Introduction to Python,Dr. Code,Was the material clear?,Agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Completely disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely agree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Somewhat agree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Completely disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Somewhat disagree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Completely disagree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Neither agree nor disagree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Completely disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Completely agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Completely disagree
+Introduction to Python,Dr. Code,Was the material clear?,Somewhat agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Somewhat agree
+Introduction to Python,Dr. Code,What did you like the most in this course?,The lectures were engaging and interactive.
+Introduction to Python,Dr. Code,What could be improved?,The pacing of the course could be improved.
+Advanced Machine Learning,Prof. AI,What did you like the most in this course?,Would have liked more real-world case studies.
+Advanced Machine Learning,Prof. AI,What could be improved?,The materials provided were excellent.
+Data Visualization Basics,Dr. Charts,What did you like the most in this course?,The pacing of the course could be improved.
+Data Visualization Basics,Dr. Charts,What could be improved?,The hands-on assignments were great!
+course_name,instructor,question_text,answer
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat agree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Completely agree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Agree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Completely disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Completely disagree
+Introduction to Python,Dr. Code,Was the material clear?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Somewhat disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Completely agree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Agree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Disagree
+Advanced Machine Learning,Prof. AI,Did you feel challenged?,Agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Disagree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Completely disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Somewhat agree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Completely agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Did you feel challenged?,Completely agree
+Data Visualization Basics,Dr. Charts,The content of the course did not overlap with other courses.,Completely agree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Agree
+Introduction to Python,Dr. Code,I would gladly attend another course with this instructor.,Somewhat disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Agree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Somewhat disagree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The content of the course did not overlap with other courses.,Disagree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Was the material clear?,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor presented the course topics in an understandable way.,Completely agree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Agree
+Introduction to Python,Dr. Code,Was the material clear?,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor provided feedback on my performance.,Somewhat agree
+Advanced Machine Learning,Prof. AI,The instructor provided feedback on my performance.,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The instructor presented the course topics in an understandable way.,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,Was the material clear?,Agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Agree
+Introduction to Python,Dr. Code,Was the material clear?,Completely agree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely agree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Neither agree nor disagree
+Introduction to Python,Dr. Code,Did you feel challenged?,Completely agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Somewhat disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Completely agree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Completely agree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Completely disagree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Completely agree
+Introduction to Python,Dr. Code,Was the material clear?,Agree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The content of the course did not overlap with other courses.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Agree
+Introduction to Python,Dr. Code,The instructor's attitude toward students was respectful and accommodating.,Disagree
+Data Visualization Basics,Dr. Charts,I would gladly attend another course with this instructor.,Agree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Somewhat agree
+Introduction to Python,Dr. Code,The course was intellectually stimulating and encouraged interest.,Disagree
+Advanced Machine Learning,Prof. AI,The instructor presented the course topics in an understandable way.,Somewhat agree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Completely agree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Somewhat agree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Neither agree nor disagree
+Introduction to Python,Dr. Code,The course was well organized and systematic.,Completely agree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Somewhat agree
+Data Visualization Basics,Dr. Charts,The instructor's attitude toward students was respectful and accommodating.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,At the beginning of the course the instructor explained its objectives and requirements.,Disagree
+Introduction to Python,Dr. Code,The instructor provided feedback on my performance.,Agree
+Advanced Machine Learning,Prof. AI,Was the material clear?,Somewhat disagree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Somewhat disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The course was intellectually stimulating and encouraged interest.,Somewhat agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Disagree
+Advanced Machine Learning,Prof. AI,I would gladly attend another course with this instructor.,Completely agree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Agree
+Introduction to Python,Dr. Code,At the beginning of the course the instructor explained its objectives and requirements.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The content of the course did not overlap with other courses.,Agree
+Data Visualization Basics,Dr. Charts,The course was intellectually stimulating and encouraged interest.,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,At the beginning of the course the instructor explained its objectives and requirements.,Completely agree
+Advanced Machine Learning,Prof. AI,The instructor's attitude toward students was respectful and accommodating.,Somewhat agree
+Data Visualization Basics,Dr. Charts,The course was well organized and systematic.,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Completely disagree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Neither agree nor disagree
+Data Visualization Basics,Dr. Charts,Did you enjoy the course?,Disagree
+Introduction to Python,Dr. Code,Did you enjoy the course?,Completely disagree
+Data Visualization Basics,Dr. Charts,Did you feel challenged?,Somewhat agree
+Advanced Machine Learning,Prof. AI,Did you enjoy the course?,Neither agree nor disagree
+Advanced Machine Learning,Prof. AI,The course was well organized and systematic.,Disagree
+Advanced Machine Learning,Prof. AI,Did you feel challenged?,Agree
+Introduction to Python,Dr. Code,What did you like the most in this course?,The hands-on assignments were great!
+Introduction to Python,Dr. Code,What could be improved?,I wish there were more examples.
+Advanced Machine Learning,Prof. AI,What did you like the most in this course?,The hands-on assignments were great!
+Advanced Machine Learning,Prof. AI,What could be improved?,The pacing of the course could be improved.
+Data Visualization Basics,Dr. Charts,What did you like the most in this course?,The hands-on assignments were great!
+Data Visualization Basics,Dr. Charts,What could be improved?,The pacing of the course could be improved.
